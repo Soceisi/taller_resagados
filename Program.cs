@@ -16,10 +16,6 @@
             int result = n - n2;
             Console.WriteLine(result);
         }
-        static void Multiplicacion(int n, int n2)
-        {
-            int result = n * n2;
-            Console.WriteLine(result);
-        }
+        
     }
 }
